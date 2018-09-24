@@ -1,0 +1,11 @@
+p {
+	color: #D72DC8;
+	font-weight: normal;
+}
+
+ol {
+	list-style-type: cjk-ideographic;
+}
+
+a:visited {color: green;}
+a:hover {color: #32C3BF;}
